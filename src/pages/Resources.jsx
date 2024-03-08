@@ -7,7 +7,7 @@ export default function Resources() {
       <header className="flex flex-wrap items-center gap-10 py-4">
         <Logo />
         <nav>
-          <ul className="flex items-center gap-10">
+          <ul className="flex flex-wrap items-center gap-10">
             <li>
               <Link
                 to="/resources"

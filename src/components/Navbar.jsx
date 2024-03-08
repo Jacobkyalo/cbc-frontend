@@ -8,7 +8,7 @@ export default function Navbar() {
         <Logo />
       </div>
       <nav>
-        <ul className="flex items-center gap-x-8">
+        <ul className="flex flex-wrap items-center gap-x-8">
           <li>
             <Link to="/" className="bg-text-bg px-6 py-3 text-lg font-bold">
               Home
