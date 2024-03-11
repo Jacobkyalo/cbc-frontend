@@ -39,14 +39,14 @@ export default function Signin() {
             <Link to="/signin">
               <span className="block text-end font-bold">Reset password?</span>
             </Link>
-            <Link to="/resources">
+            {/* <Link to="/resources"> */}
               <button
                 type="submit"
                 className="bg-text-bg-dark mt-4 w-full py-2 font-bold"
               >
                 LOGIN
               </button>
-            </Link>
+            {/* </Link> */}
           </form>
         </div>
         <div>
@@ -78,14 +78,14 @@ export default function Signin() {
             <Link to="/signin">
               <span className="block text-end font-bold">Reset password?</span>
             </Link>
-            <Link to="/resources">
+            {/* <Link to="/resources"> */}
               <button
                 type="submit"
                 className="bg-text-bg-dark mt-4 w-full py-2 font-bold"
               >
                 LOGIN
               </button>
-            </Link>
+            {/* </Link> */}
           </form>
         </div>
         <div>
@@ -117,14 +117,14 @@ export default function Signin() {
             <Link to="/signin">
               <span className="block text-end font-bold">Reset password?</span>
             </Link>
-            <Link to="/resources">
+            {/* <Link to="/resources"> */}
               <button
                 type="submit"
                 className="bg-text-bg-dark mt-4 w-full py-2 font-bold"
               >
                 LOGIN
               </button>
-            </Link>
+            {/* </Link> */}
           </form>
         </div>
       </section>
